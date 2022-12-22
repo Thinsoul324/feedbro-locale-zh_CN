@@ -1,0 +1,1 @@
+# feedbro-locale-zh_CN
